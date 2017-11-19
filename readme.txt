@@ -8,3 +8,6 @@ this is the first github code
 
 
 creating a new branch is quick
+
+using graph method create branch
+
