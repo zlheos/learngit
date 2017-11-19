@@ -11,3 +11,4 @@ creating a new branch is quick
 
 using graph method create branch
 
+add merge
