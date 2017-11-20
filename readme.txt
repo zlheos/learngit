@@ -24,4 +24,4 @@ stash dev befor issue 101  stash
 nihao origin/bev
 
 
-branch 2 deal a bug
+branch 1 deal a bugbranch 2 deal a bug
